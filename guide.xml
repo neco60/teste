@@ -1,0 +1,1096 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190711000000 +0100" stop="20190711235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190712000000 +0100" stop="20190712235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190713000000 +0100" stop="20190713235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190711002900 -0300" stop="20190711003000 -0300" channel="GNT HD">
+    <title lang="pt">Álbum de Família: Alves Vieira</title>
+    <desc lang="pt">Os gêmeos Matteo e Gael, portadores de Síndrome de Down, transformaram as vidas de seus pais Wyllian e Elaine. A família vai assistir aos pequenos fazendo a maior bagunça no estúdio da fotógrafa Fernanda(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711003000 -0300" stop="20190711010000 -0300" channel="GNT HD">
+    <title lang="pt">Catastrophe</title>
+    <desc lang="pt">Neste episódio de Catastrophe, Rob é demitido via Skype e, com a ajuda de Dave, começa a procurar emprego em Londres. Os dois planejam o casamento e a mãe de Rob revela a Sharon um segredo do passado(n)</desc>
+    <credits>
+      <director>Ben Taylor</director>
+      <actor>Sharon Horgan</actor>
+      <actor>Rob Delaney</actor>
+      <actor>Mark Bonnar</actor>
+      <actor>Ashley Jensen</actor>
+      <actor>Daniel Lapaine</actor>
+      <actor>Catastrophe</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190711010000 -0300" stop="20190711013000 -0300" channel="GNT HD">
+    <title lang="pt">Chegadas e Partidas: Deus Proverá</title>
+    <desc lang="pt">Comandado por Astrid Fontenelle(n)</desc>
+    <credits>
+      <director>Isabella Ponce</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711013000 -0300" stop="20190711015900 -0300" channel="GNT HD">
+    <title lang="pt">Desengaveta: Larissa Manoela</title>
+    <desc lang="pt">Larissa Manoela é um fenômeno. A atriz e cantora de 17 anos começou na televisão aos 4 e acumula mais de 14 milhões de seguidores nas redes sociais(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711015900 -0300" stop="20190711020000 -0300" channel="GNT HD">
+    <title lang="pt">Álbum de Família: Família Rabello</title>
+    <desc lang="pt">O amor entre Theo e Priscila nasceu a partir de uma paixão em comum: a fotografia. A fotógrafa Clara vai registrar os frutos desse amor: a pequena Maya e o novo filho do casal, ainda na barriga da mamãe(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711020000 -0300" stop="20190711030000 -0300" channel="GNT HD">
+    <title lang="pt">Pedro Pelo Mundo: Etiópia</title>
+    <desc lang="pt">Uma série que mistura viagem, cultura internacional, curiosidades e gastronomia. Pedro Andrade viaja pelo mundo para explorar destinos que no momento tentam se adaptar a grandes mudanças de comportamento(n)</desc>
+    <credits>
+      <director>Guto Barra</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711030000 -0300" stop="20190711040000 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce: Mar</title>
+    <desc lang="pt">Açúcar e sal nunca se misturam? Nesse episódio, eles vão se misturar, e muito, já que os confeiteiros vão inspirar-se no mar para criar as suas delícias(n)</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711040000 -0300" stop="20190711050000 -0300" channel="GNT HD">
+    <title lang="pt">Mais Cor, Por Favor: Sala Kitsch</title>
+    <desc lang="pt">Jessé e Ângelo são casados e fãs de arte, só que o cantinho onde Jessé dá aulas particulares de literatura está sem nenhum toque artístico. Thalita vai levar mais cor e soluções criativas para o ambiente(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711050000 -0300" stop="20190711060000 -0300" channel="GNT HD">
+    <title lang="pt">Mais Cor, Por Favor: Cantinho do Bordado</title>
+    <desc lang="pt">Catarina é bordadeira e sonha ter um cantinho confortável e colorido na sala para dar aula e expor seus bordados. Seu pai, Serafim, cede o espaço e Thalita traz as soluções para renovar o ambiente(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711060000 -0300" stop="20190711064500 -0300" channel="GNT HD">
+    <title lang="pt">Que Marravilha Chefinhos: (Reality de Culinária) - Cordeiro à</title>
+    <desc lang="pt">No episódio de hoje, Claude e seu fiel escudeiro Batista ensinam para o chefinho Mariano a receita cordeiro à indiana com chutney de manga(n)</desc>
+    <credits>
+      <director>Ric Ostrower</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711064500 -0300" stop="20190711080000 -0300" channel="GNT HD">
+    <title lang="pt">Que Marravilha Chato Para Comer: (Reality de Culinária) - Peito de</title>
+    <desc lang="pt">Horácio é advogado, mas está no banco dos réus. A missão de Claude é fazer Horácio comer camarão. Claude vai usar toda a sua habilidade para conseguir enganar o olfato treinado do advogado(n)</desc>
+    <credits>
+      <director>Ric Ostrower</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711080000 -0300" stop="20190711083000 -0300" channel="GNT HD">
+    <title lang="pt">Admirável Móvel Novo: A Mesa Tamanho Família</title>
+    <desc lang="pt">Karina Vargas é paulista, 40 anos, se formou em moda e design de interiores. André Vargas é publicitário, curitibano, 36 anos. São casados há 15 anos e têm uma filha, Helena, 8 anos(n)</desc>
+    <credits>
+      <director>Renata Sauda</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711083000 -0300" stop="20190711092900 -0300" channel="GNT HD">
+    <title lang="pt">Decora: Quitinete pra Chamar de Casa</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S13 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711092900 -0300" stop="20190711093000 -0300" channel="GNT HD">
+    <title lang="pt">Álbum de Família: Alves Vieira</title>
+    <desc lang="pt">Os gêmeos Matteo e Gael, portadores de Síndrome de Down, transformaram as vidas de seus pais Wyllian e Elaine. A família vai assistir aos pequenos fazendo a maior bagunça no estúdio da fotógrafa Fernanda(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711093000 -0300" stop="20190711103000 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce: Mar</title>
+    <desc lang="pt">Açúcar e sal nunca se misturam? Nesse episódio, eles vão se misturar, e muito, já que os confeiteiros vão inspirar-se no mar para criar as suas delícias(n)</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711103000 -0300" stop="20190711110000 -0300" channel="GNT HD">
+    <title lang="pt">Rainha da Cocada: Torrone de Pistache, Amêndoas e Avelã 2ª</title>
+    <desc lang="pt">Já imaginou uma sobremesa portátil que desse para levar na bolsa? É isso que Raíza vai ensinar a fazer: um lanchinho com muitas avelãs, amêndoas e pistaches, que todo mundo conhece como torrone(n)</desc>
+    <credits>
+      <director>Raiza Costa</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711110000 -0300" stop="20190711113000 -0300" channel="GNT HD">
+    <title lang="pt">Rainha da Cocada: Doce de Chocolate e Marshmallow com Pipoca Caramelada</title>
+    <desc lang="pt">Raíza vai fazer uma sobremesa para realizar as nossas fantasias com pipoca: crosta de pipoca caramelada coberta por creme de chocolate e merengue tostado por cima. Perfeita para cinema em casa(n)</desc>
+    <credits>
+      <director>Raiza Costa</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711113000 -0300" stop="20190711123000 -0300" channel="GNT HD">
+    <title lang="pt">Credo, Que Delícia: Que Programa é Esse</title>
+    <desc lang="pt">A pergunta que poucos ainda sabem responder. Mas quem tem as respostas para tudo na vida? De onde viemos? Para onde vamos? O importante é ter doces bonitos e saborosos (na medida do possível, claro)(n)</desc>
+    <credits>
+      <director>Roberto D'ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711123000 -0300" stop="20190711130000 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática com Rita Lobo: Bisteca de Feijão Branco 12ª</title>
+    <desc lang="pt">Para resolver o jantar de quem mora sozinho, Rita Lobo prepara em tempo real uma bisteca com feijão branco e brócolis em uma panela só. E mostra truques de planejamento para agilizar o dia a dia(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711130000 -0300" stop="20190711140000 -0300" channel="GNT HD">
+    <title lang="pt">Food Truck - A Batalha: (Reality Show) - Frango</title>
+    <desc lang="pt">Docu-reality de competição entre dois carros de comida de rua(n)</desc>
+    <credits>
+      <director>Roberto Dávila</director>
+      <director>André Sacramento</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">E16</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190711140000 -0300" stop="20190711150000 -0300" channel="GNT HD">
+    <title lang="pt">Mais Cor, Por Favor: Cantinho do Bordado</title>
+    <desc lang="pt">Catarina é bordadeira e sonha ter um cantinho confortável e colorido na sala para dar aula e expor seus bordados. Seu pai, Serafim, cede o espaço e Thalita traz as soluções para renovar o ambiente(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711150000 -0300" stop="20190711160000 -0300" channel="GNT HD">
+    <title lang="pt">Pedro Pelo Mundo: Etiópia</title>
+    <desc lang="pt">Uma série que mistura viagem, cultura internacional, curiosidades e gastronomia. Pedro Andrade viaja pelo mundo para explorar destinos que no momento tentam se adaptar a grandes mudanças de comportamento(n)</desc>
+    <credits>
+      <director>Guto Barra</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711160000 -0300" stop="20190711163000 -0300" channel="GNT HD">
+    <title lang="pt">Desengaveta: Rayza Nicácio</title>
+    <desc lang="pt">O closet e a casa da influenciadora digital Rayza Nicácio são um verdadeiro cenário onde ela grava seus vídeos para o Youtube(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711163000 -0300" stop="20190711170000 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática com Rita Lobo: Estrogonofe de Frango</title>
+    <desc lang="pt">Rita Lobo ensina o preparo do estrogonofe de frango, acompanhado de batata palha feita com batata doce no forno(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S12 E30</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711170000 -0300" stop="20190711180000 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce: Mar</title>
+    <desc lang="pt">Açúcar e sal nunca se misturam? Nesse episódio, eles vão se misturar, e muito, já que os confeiteiros vão inspirar-se no mar para criar as suas delícias(n)</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711180000 -0300" stop="20190711190000 -0300" channel="GNT HD">
+    <title lang="pt">Credo, Que Delícia: Que Programa é Esse</title>
+    <desc lang="pt">A pergunta que poucos ainda sabem responder. Mas quem tem as respostas para tudo na vida? De onde viemos? Para onde vamos? O importante é ter doces bonitos e saborosos (na medida do possível, claro)(n)</desc>
+    <credits>
+      <director>Roberto D'ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711190000 -0300" stop="20190711200000 -0300" channel="GNT HD">
+    <title lang="pt">Mestres da Renovação: Dia de Treinamento</title>
+    <desc lang="pt">Neste episódio de Mestres da Renovação, a reforma da vez serve como treinamento para o novo membro da equipe, Kevin, que também é irmão de Kortney. Será que ele vai conseguir impressionar os chefes(n)</desc>
+    <credits>
+      <director>Chace Alford</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711200000 -0300" stop="20190711210000 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce: Carmen Miranda</title>
+    <desc lang="pt">Um reality show de competição em 30 episódios diários no qual, a cada programa, 3 doceiros lutarão pelo prêmio de melhor do dia(n)</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711210000 -0300" stop="20190711214500 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática - A Quatro Mãos: Jefferson Schroeder 12ª</title>
+    <desc lang="pt">O divertidíssimo ator Jefferson Schroeder é o convidado do Cozinha Prática. Juntos, ele e Rita Lobo preparam picadinho oriental de frango com arroz e banana caramelizada(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711214500 -0300" stop="20190711223000 -0300" channel="GNT HD">
+    <title lang="pt">Que Marravilha Chato Para Comer: Arraia e Banana ao Molho de Passas 22ª</title>
+    <desc lang="pt">Rodrigo tem dois filhos pequenos e tanto pavor de legumes e frutas que sequer experimentam o que cozinha para eles. Claude e Batista preparam uma receita de arraia e banana ao molho de passas(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711223000 -0300" stop="20190711230000 -0300" channel="GNT HD">
+    <title lang="pt">Tempero de Família: Cogumelos</title>
+    <desc lang="pt">Rodrigo vai ao Vale do Pavão conversar com Marcio e Ana sobre o cultivo de cogumelos. Rodrigo prepara: hiratake à milanesa(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711230000 -0300" stop="20190711233000 -0300" channel="GNT HD">
+    <title lang="pt">Perto do Fogo: Sabores do Pará</title>
+    <desc lang="pt">Felipe Bronze prepara sanduíches recheados com os sabores do Pará. E quem acompanha Felipe nessa viagem é o chef que leva a culinária do norte pra o resto do país, Thiago Castanho(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190711233000 -0300" stop="20190712003000 -0300" channel="GNT HD">
+    <title lang="pt">The Good Doctor: Comida Queimada</title>
+    <desc lang="pt">O presidente do Hospital San Jose St. Bonaventure defende um caso para que o relutante conselho diretor permita que um jovem médico com síndrome de savant e autismo entre em sua equipe cirúrgica(n)</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <actor>Freddie Highmore</actor>
+      <actor>Nicholas Gonzalez</actor>
+      <actor>Antonia Thomas</actor>
+      <actor>Tamlyn Tomita</actor>
+      <actor>Hill Harper</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190712003000 -0300" stop="20190712010000 -0300" channel="GNT HD">
+    <title lang="pt">Catastrophe</title>
+    <desc lang="pt">Neste episódio de Catastrophe, Sharon diz a Rob que convidou uma amiga da Irlanda para ser sua dama e ele pensa em chamar Fergal para ser seu padrinho. Os dois aproveitam suas despedidas de solteiro(n)</desc>
+    <credits>
+      <director>Ben Taylor</director>
+      <actor>Sharon Horgan</actor>
+      <actor>Rob Delaney</actor>
+      <actor>Mark Bonnar</actor>
+      <actor>Ashley Jensen</actor>
+      <actor>Daniel Lapaine</actor>
+      <actor>Catastrophe</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190712010000 -0300" stop="20190712014500 -0300" channel="GNT HD">
+    <title lang="pt">Que Marravilha Chato Para Comer: (Reality de Culinária) - Torta Moqueca</title>
+    <desc lang="pt">A família de Gustavo de Jesus tem um grande problema na Semana Santa, o chato não come peixe e nenhum tipo de frutos do mar. Ele pede licença, quebra a tradição e pede para mãe preparar um bifinho(n)</desc>
+    <credits>
+      <director>Ric Ostrower</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712014500 -0300" stop="20190712030000 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce: Mar</title>
+    <desc lang="pt">Açúcar e sal nunca se misturam? Nesse episódio, eles vão se misturar, e muito, já que os confeiteiros vão inspirar-se no mar para criar as suas delícias(n)</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712030000 -0300" stop="20190712040000 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce: Carmen Miranda</title>
+    <desc lang="pt">Um reality show de competição em 30 episódios diários no qual, a cada programa, 3 doceiros lutarão pelo prêmio de melhor do dia(n)</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712040000 -0300" stop="20190712050000 -0300" channel="GNT HD">
+    <title lang="pt">Mais Cor, Por Favor: Cantinho do Bordado</title>
+    <desc lang="pt">Catarina é bordadeira e sonha ter um cantinho confortável e colorido na sala para dar aula e expor seus bordados. Seu pai, Serafim, cede o espaço e Thalita traz as soluções para renovar o ambiente(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712050000 -0300" stop="20190712055900 -0300" channel="GNT HD">
+    <title lang="pt">Mais Cor, Por Favor: Sala Tranquila</title>
+    <desc lang="pt">Evelyn e Pedro adoram cor, mas pesaram na mão no cantinho de refeição e reunião de amigos. Thalita vem mostrar que, às vezes, a saída é usar menos cor por favor para um ambiente mais agradável(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712055900 -0300" stop="20190712060000 -0300" channel="GNT HD">
+    <title lang="pt">Álbum de Família: Família Pacheco</title>
+    <desc lang="pt">Carolina e Pedro foram morar na Argentina. Lá nasceram seus filhos: Lucas e a Luísa. De volta ao Brasil, foram surpreendidos pela chegada do pequeno Leo. A família vai passar pelas lentes da fotógrafa Clara(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712060000 -0300" stop="20190712070000 -0300" channel="GNT HD">
+    <title lang="pt">Que Marravilha Chefinhos: (Reality de Culinária) - Mousse de Vieira,</title>
+    <desc lang="pt">No episódio de hoje, Claude e seu fiel escudeiro Batista ensinam para o chefinho João Camargo a receita Mousse de vieiras e lagostins com aspargos(n)</desc>
+    <credits>
+      <director>Ric Ostrower</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712070000 -0300" stop="20190712080000 -0300" channel="GNT HD">
+    <title lang="pt">Superbonita: É Carnaval</title>
+    <desc lang="pt">A convidada Glória Groove amou o tema do desafio que era(n)</desc>
+    <credits>
+      <director>Paulo Eduardo</director>
+      <director>Estevão Filho</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S20 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712080000 -0300" stop="20190712083000 -0300" channel="GNT HD">
+    <title lang="pt">Boas Vindas: (Maternidade) - Recomeços</title>
+    <desc lang="pt">Pedro precisou de coragem para apoiar Gabriela durante a doença da sogra. Se voluntariou para ser seu doador de fígado, mas, apesar do esforço, eles viveram sua perda ao mesmo tempo em que viram o nascimento de Gabriel(n)</desc>
+    <credits>
+      <director>Daniela Arruda</director>
+      <director>Rodrigo Hinrichsen</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S9 E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712083000 -0300" stop="20190712090000 -0300" channel="GNT HD">
+    <title lang="pt">A Louca das Plantas: Terraço na Cobertura - Quintal nas Alturas</title>
+    <desc lang="pt">O apresentador Didi Effe vive numa cobertura com terraço sombreado onde bate muito vento. Carol Costa ensina os truques para plantar nesse ambiente e transforma o espaço em um quintal nas alturas(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712090000 -0300" stop="20190712100000 -0300" channel="GNT HD">
+    <title lang="pt">Me Deixa Dançar: Brincando com Britney</title>
+    <desc lang="pt">Esse episódio traz todas as fases da princesa da pop(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712100000 -0300" stop="20190712103000 -0300" channel="GNT HD">
+    <title lang="pt">Desengaveta: Rayza Nicácio</title>
+    <desc lang="pt">O closet e a casa da influenciadora digital Rayza Nicácio são um verdadeiro cenário onde ela grava seus vídeos para o Youtube(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712103000 -0300" stop="20190712113000 -0300" channel="GNT HD">
+    <title lang="pt">Pedro Pelo Mundo: Etiópia</title>
+    <desc lang="pt">Uma série que mistura viagem, cultura internacional, curiosidades e gastronomia. Pedro Andrade viaja pelo mundo para explorar destinos que no momento tentam se adaptar a grandes mudanças de comportamento(n)</desc>
+    <credits>
+      <director>Guto Barra</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712113000 -0300" stop="20190712120000 -0300" channel="GNT HD">
+    <title lang="pt">Chegadas e Partidas: Deus Proverá</title>
+    <desc lang="pt">Comandado por Astrid Fontenelle(n)</desc>
+    <credits>
+      <director>Isabella Ponce</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712120000 -0300" stop="20190712130000 -0300" channel="GNT HD">
+    <title lang="pt">Superbonita: É Carnaval</title>
+    <desc lang="pt">A convidada Glória Groove amou o tema do desafio que era(n)</desc>
+    <credits>
+      <director>Paulo Eduardo</director>
+      <director>Estevão Filho</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S20 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712130000 -0300" stop="20190712140000 -0300" channel="GNT HD">
+    <title lang="pt">Papo de Segunda 5ª Temp</title>
+    <desc lang="pt">O Papo de Segunda vem em 2018 totalmente reformulado Vamos para São Paulo, com novos apresentadores: Fábio Porchat, Emicida, Francisco Bosco e João Vicente(n)</desc>
+    <credits>
+      <director>Karina Di Cunto</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190712140000 -0300" stop="20190712150000 -0300" channel="GNT HD">
+    <title lang="pt">Saia Justa</title>
+    <desc lang="pt">Ampliando as diferentes vozes femininas no Brasil desde 2002, o programa apresenta semanalmente as ideias de Astrid Fontenelle, Mônica Martelli, Pitty e Gaby Amarantos(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S18 E18</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190712150000 -0300" stop="20190712152900 -0300" channel="GNT HD">
+    <title lang="pt">Boas Vindas: (Maternidade) - Recomeços</title>
+    <desc lang="pt">Pedro precisou de coragem para apoiar Gabriela durante a doença da sogra. Se voluntariou para ser seu doador de fígado, mas, apesar do esforço, eles viveram sua perda ao mesmo tempo em que viram o nascimento de Gabriel(n)</desc>
+    <credits>
+      <director>Daniela Arruda</director>
+      <director>Rodrigo Hinrichsen</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S9 E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712152900 -0300" stop="20190712153000 -0300" channel="GNT HD">
+    <title lang="pt">Álbum de Família: Alves Vieira</title>
+    <desc lang="pt">Os gêmeos Matteo e Gael, portadores de Síndrome de Down, transformaram as vidas de seus pais Wyllian e Elaine. A família vai assistir aos pequenos fazendo a maior bagunça no estúdio da fotógrafa Fernanda(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712153000 -0300" stop="20190712160000 -0300" channel="GNT HD">
+    <title lang="pt">Chegadas e Partidas: Deus Proverá</title>
+    <desc lang="pt">Comandado por Astrid Fontenelle(n)</desc>
+    <credits>
+      <director>Isabella Ponce</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712160000 -0300" stop="20190712170000 -0300" channel="GNT HD">
+    <title lang="pt">Superbonita: É Carnaval</title>
+    <desc lang="pt">A convidada Glória Groove amou o tema do desafio que era(n)</desc>
+    <credits>
+      <director>Paulo Eduardo</director>
+      <director>Estevão Filho</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S20 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712170000 -0300" stop="20190712180000 -0300" channel="GNT HD">
+    <title lang="pt">Saia Justa</title>
+    <desc lang="pt">Ampliando as diferentes vozes femininas no Brasil desde 2002, o programa apresenta semanalmente as ideias de Astrid Fontenelle, Mônica Martelli, Pitty e Gaby Amarantos(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S18 E18</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190712180000 -0300" stop="20190712190000 -0300" channel="GNT HD">
+    <title lang="pt">Superbonita: Festival de Música</title>
+    <desc lang="pt">A convidada Manu Gavassi veio para contar para Gio e Karol um pouco sobre suas inspirações de make para o dia a dia e para seus shows, já que o tema do desafio foi Festival de música(n)</desc>
+    <credits>
+      <director>Paulo Eduardo</director>
+      <director>Estevão Filho</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S20 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712190000 -0300" stop="20190712200000 -0300" channel="GNT HD">
+    <title lang="pt">Decora: Quarto Rock'n'roll</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712200000 -0300" stop="20190712210000 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce: Doce de Fazenda</title>
+    <desc lang="pt">Os sabores da fazenda saem do campo e chegam na cozinha mais açucarada da TV. Os confeiteiros irão preparar doces com geleia e deliciosas sobremesas com milho que vão fazer os jurados se sentirem bem longe da cidade grande(n)</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712210000 -0300" stop="20190712213000 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática com Rita Lobo: Torta de Limão</title>
+    <desc lang="pt">Rita Lobo prepara uma torta de limão perfeita para quem gosta de cozinhar: massa caseira, recheio de limão (com gemas e manteiga) e merengue maçaricado na cobertura(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S12 E32</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712213000 -0300" stop="20190712223000 -0300" channel="GNT HD">
+    <title lang="pt">Credo, Que Delícia: Isso Aqui é a Sua Cara</title>
+    <desc lang="pt">Os participantes devem fazer doces que são literalmente a cara dos jurados. Será que eles vão conseguir reproduzir a incrível beleza de Dani, Paulo e Michael(n)</desc>
+    <credits>
+      <director>Roberto D'ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712223000 -0300" stop="20190712233000 -0300" channel="GNT HD">
+    <title lang="pt">Me Deixa Dançar: Espírito Latino</title>
+    <desc lang="pt">Dançar para ser feliz. Dançar para os males espantar. Dançar sem motivos, para relaxar, emagrecer, provocar, atiçar ou animar. Essa é a premissa do programa de uma hora pensado para o GNT(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190712233000 -0300" stop="20190713003000 -0300" channel="GNT HD">
+    <title lang="pt">The Good Doctor: Mounte Rushmore</title>
+    <desc lang="pt">Quando preconceitos sobre seu autismo forçam Shaun a ficar de lado em St. Bonaventure, um colega não hesita em reivindicar crédito por suas idéias(n)</desc>
+    <credits>
+      <director>Mike Listo</director>
+      <actor>Freddie Highmore</actor>
+      <actor>Nicholas Gonzalez</actor>
+      <actor>Antonia Thomas</actor>
+      <actor>Tamlyn Tomita</actor>
+      <actor>Hill Harper</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190713003000 -0300" stop="20190713010000 -0300" channel="GNT HD">
+    <title lang="pt">Catastrophe</title>
+    <desc lang="pt">Neste episódio de Catastrophe, Sharon e Rob causam um caos na maternidade no nascimento da filha. A família toda vai visitá-los, inclusive Mia, para a tristeza de Shraron(n)</desc>
+    <credits>
+      <director>Ben Taylor</director>
+      <actor>Sharon Horgan</actor>
+      <actor>Rob Delaney</actor>
+      <actor>Mark Bonnar</actor>
+      <actor>Ashley Jensen</actor>
+      <actor>Daniel Lapaine</actor>
+      <actor>Catastrophe</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190713010000 -0300" stop="20190713020000 -0300" channel="GNT HD">
+    <title lang="pt">Credo, Que Delícia: Isso Aqui é a Sua Cara</title>
+    <desc lang="pt">Os participantes devem fazer doces que são literalmente a cara dos jurados. Será que eles vão conseguir reproduzir a incrível beleza de Dani, Paulo e Michael(n)</desc>
+    <credits>
+      <director>Roberto D'ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713020000 -0300" stop="20190713030000 -0300" channel="GNT HD">
+    <title lang="pt">Me Deixa Dançar: Espírito Latino</title>
+    <desc lang="pt">Dançar para ser feliz. Dançar para os males espantar. Dançar sem motivos, para relaxar, emagrecer, provocar, atiçar ou animar. Essa é a premissa do programa de uma hora pensado para o GNT(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713030000 -0300" stop="20190713040000 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce: Doce de Fazenda</title>
+    <desc lang="pt">Os sabores da fazenda saem do campo e chegam na cozinha mais açucarada da TV. Os confeiteiros irão preparar doces com geleia e deliciosas sobremesas com milho que vão fazer os jurados se sentirem bem longe da cidade grande(n)</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713040000 -0300" stop="20190713050000 -0300" channel="GNT HD">
+    <title lang="pt">Mais Cor, Por Favor: Sala Tranquila</title>
+    <desc lang="pt">Evelyn e Pedro adoram cor, mas pesaram na mão no cantinho de refeição e reunião de amigos. Thalita vem mostrar que, às vezes, a saída é usar menos cor por favor para um ambiente mais agradável(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713050000 -0300" stop="20190713060000 -0300" channel="GNT HD">
+    <title lang="pt">Superbonita: É Carnaval</title>
+    <desc lang="pt">A convidada Glória Groove amou o tema do desafio que era(n)</desc>
+    <credits>
+      <director>Paulo Eduardo</director>
+      <director>Estevão Filho</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S20 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713060000 -0300" stop="20190713063000 -0300" channel="GNT HD">
+    <title lang="pt">Lugar de Criança: Quarto Tropical</title>
+    <desc lang="pt">Nesse episódio, o Lugar de Criança encara a missão de criar um quarto tropical, com flamingos, flores, sol, praia, frutas e tudo que tem direito para as irmãs Melissa e Manuela(n)</desc>
+    <credits>
+      <director>Isabella Ponce De Leon</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713063000 -0300" stop="20190713070000 -0300" channel="GNT HD">
+    <title lang="pt">Santa Ajuda: Closet da Foquinha</title>
+    <desc lang="pt">No Santa Ajuda de hoje, a influenciadora digital Foquinha tem a bagunça eliminada do seu closet(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713070000 -0300" stop="20190713080000 -0300" channel="GNT HD">
+    <title lang="pt">Fazendo a Festa: Bombeiros</title>
+    <desc lang="pt">O Daniel vai fazer 11 anos e decidiu homenagear seus grandes heróis, os bombeiros, em uma festa com muita diversão e emoção. Fernanda Rodrigues e a liga fazem de tudo para que a festa saia do jeito que o menino imaginou(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713080000 -0300" stop="20190713090000 -0300" channel="GNT HD">
+    <title lang="pt">Decora: Quitinete pra Chamar de Casa</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S13 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713090000 -0300" stop="20190713094500 -0300" channel="GNT HD">
+    <title lang="pt">Cozinha Prática - A Quatro Mãos: Jefferson Schroeder 12ª</title>
+    <desc lang="pt">O divertidíssimo ator Jefferson Schroeder é o convidado do Cozinha Prática. Juntos, ele e Rita Lobo preparam picadinho oriental de frango com arroz e banana caramelizada(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713094500 -0300" stop="20190713101500 -0300" channel="GNT HD">
+    <title lang="pt">Perto do Fogo: Ceará</title>
+    <desc lang="pt">Felipe Bronze visita a culinária cearense e prepara um Baião de dois ao queijo coalho com tomates e mel, uma carne de sol com vinagrete de pimenta Cambuci e Acerola. Por fim, um Caldo de mocotó(n)</desc>
+    <credits>
+      <director>Claudia Castro</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713101500 -0300" stop="20190713110000 -0300" channel="GNT HD">
+    <title lang="pt">Que Marravilha Chato Para Comer: (Reality de Culinária) - Torta Moqueca</title>
+    <desc lang="pt">A família de Gustavo de Jesus tem um grande problema na Semana Santa, o chato não come peixe e nenhum tipo de frutos do mar. Ele pede licença, quebra a tradição e pede para mãe preparar um bifinho(n)</desc>
+    <credits>
+      <director>Ric Ostrower</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713110000 -0300" stop="20190713113000 -0300" channel="GNT HD">
+    <title lang="pt">Tempero de Família: Empadão</title>
+    <desc lang="pt">Rodrigo Hilbert vai até Honório Gurgel, no Rio de Janeiro, onde conhece Victor Hugo, um jovem que organiza, junto com os vizinhos, projetos para revitalização do bairro onde vive(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713113000 -0300" stop="20190713123000 -0300" channel="GNT HD">
+    <title lang="pt">Food Truck - A Batalha: Bacon</title>
+    <desc lang="pt">Ele é o vilão da saúde e o herói do sabor. O bacon, sem dúvidas, causa polêmica. Mas Adolpho Schaeffer e Márcio Silva não querem saber de confusão, querem sabor e vendas(n)</desc>
+    <credits>
+      <director>Roberto Dávila</director>
+      <director>André Sacramento</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190713123000 -0300" stop="20190713130000 -0300" channel="GNT HD">
+    <title lang="pt">Rainha da Cocada: Xocomelo Xadrez</title>
+    <desc lang="pt">Quer saber do casamento de Raíza Costa? Ela vai contar detalhes e fazer um bolo xadrez de 3 cores, igual à camisa que ela e o marido estavam usando no dia, e cobrir com ganache e caramelo salgado(n)</desc>
+    <credits>
+      <director>Raiza Costa</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713130000 -0300" stop="20190713140000 -0300" channel="GNT HD">
+    <title lang="pt">Credo, Que Delícia: Isso Aqui é a Sua Cara</title>
+    <desc lang="pt">Os participantes devem fazer doces que são literalmente a cara dos jurados. Será que eles vão conseguir reproduzir a incrível beleza de Dani, Paulo e Michael(n)</desc>
+    <credits>
+      <director>Roberto D'ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713140000 -0300" stop="20190713143000 -0300" channel="GNT HD">
+    <title lang="pt">Lugar de Criança: Quarto Tropical</title>
+    <desc lang="pt">Nesse episódio, o Lugar de Criança encara a missão de criar um quarto tropical, com flamingos, flores, sol, praia, frutas e tudo que tem direito para as irmãs Melissa e Manuela(n)</desc>
+    <credits>
+      <director>Isabella Ponce De Leon</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713143000 -0300" stop="20190713153000 -0300" channel="GNT HD">
+    <title lang="pt">Fazendo a Festa: Horta</title>
+    <desc lang="pt">Helena está completando 9 anos, e o tema que ela escolheu para a festa tem a ver com uma de suas grandes paixões: sua hortinha caseira. Por isso, é dia de colocar a mão na terra no Fazendo a Festa(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713153000 -0300" stop="20190713163000 -0300" channel="GNT HD">
+    <title lang="pt">Decora: Quitinete pra Chamar de Casa</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S13 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713163000 -0300" stop="20190713170000 -0300" channel="GNT HD">
+    <title lang="pt">Santa Ajuda: Closet da Foquinha</title>
+    <desc lang="pt">No Santa Ajuda de hoje, a influenciadora digital Foquinha tem a bagunça eliminada do seu closet(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713170000 -0300" stop="20190713180000 -0300" channel="GNT HD">
+    <title lang="pt">Mais Cor, Por Favor: Sala Kitsch</title>
+    <desc lang="pt">Jessé e Ângelo são casados e fãs de arte, só que o cantinho onde Jessé dá aulas particulares de literatura está sem nenhum toque artístico. Thalita vai levar mais cor e soluções criativas para o ambiente(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713180000 -0300" stop="20190713190000 -0300" channel="GNT HD">
+    <title lang="pt">Fazendo a Festa: Ursinhos Carinhosos</title>
+    <desc lang="pt">Os Ursinhos Carinhosos vão invadir o Fazendo a Festa e espalhar muito amor na festa de 5 anos da Carolina. Fernanda Rodrigues e a Liga se enchem de carinho e preparam uma festa linda para a pequena aniversariante(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713190000 -0300" stop="20190713200000 -0300" channel="GNT HD">
+    <title lang="pt">Que Marravilha Chato Para Comer: Arraia e Banana ao Molho de Passas 22ª</title>
+    <desc lang="pt">Rodrigo tem dois filhos pequenos e tanto pavor de legumes e frutas que sequer experimentam o que cozinha para eles. Claude e Batista preparam uma receita de arraia e banana ao molho de passas(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713200000 -0300" stop="20190713210000 -0300" channel="GNT HD">
+    <title lang="pt">Que Seja Doce: Sorvetes</title>
+    <desc lang="pt">Os doces deste episódio vão fazer nossos jurados balançarem os quadris Os confeiteiros usarão toda ousadia e rebeldia para reinventar os clássicos milkshake e banana split, usando como inspiração as raízes do rock'n'roll(n)</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190713210000 -0300" stop="20190713214500 -0300" channel="GNT HD">
+    <title lang="pt">The Good Doctor: Ilhas Primeira Parte</title>
+    <desc lang="pt">O Dr. Marcus Andrews pede ao Dr. Neil Melendez um transplante renal muito sensível entre um par de gêmeos(n)</desc>
+    <credits>
+      <director>Bill D'Elia</director>
+      <actor>Freddie Highmore</actor>
+      <actor>Nicholas Gonzalez</actor>
+      <actor>Antonia Thomas</actor>
+      <actor>Tamlyn Tomita</actor>
+      <actor>Hill Harper</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190713214500 -0300" stop="20190713223000 -0300" channel="GNT HD">
+    <title lang="pt">The Good Doctor: Ilhas Segunda Parte</title>
+    <desc lang="pt">Os gêmeos sofrem complicações de uma cirurgia, forçando a equipe do Hospital San Jose Boneventure a tomar uma decisão que mudará suas vidas(n)</desc>
+    <credits>
+      <director>Bill D'Elia</director>
+      <actor>Freddie Highmore</actor>
+      <actor>Nicholas Gonzalez</actor>
+      <actor>Antonia Thomas</actor>
+      <actor>Tamlyn Tomita</actor>
+      <actor>Hill Harper</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190713223000 -0300" stop="20190713231500 -0300" channel="GNT HD">
+    <title lang="pt">The Good Doctor: Sete Motivos</title>
+    <desc lang="pt">A Dra. Shaun Murphy suspeita que sua paciente está mentindo sobre o motivo de sua lesão e faz uma suposição sobre seus motivos(n)</desc>
+    <credits>
+      <director>Bill D'Elia</director>
+      <actor>Freddie Highmore</actor>
+      <actor>Nicholas Gonzalez</actor>
+      <actor>Antonia Thomas</actor>
+      <actor>Tamlyn Tomita</actor>
+      <actor>Hill Harper</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+</tv>
